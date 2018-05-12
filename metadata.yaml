@@ -1,0 +1,33 @@
+_repo: Sketch-of-the-First-Kentucky-Brigade_34891
+_version: 0.1.0
+alternative_title: Sketch of the 1st Kentucky Brigade
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hodge, George B. (George Baird)
+    aliases:
+    - Hodge, G. B. (George Baird)
+    - Hodge, George Baird
+    birthdate: 1828
+    deathdate: 1892
+    gutenberg_agent_id: '37303'
+    url: http://www.gutenberg.org/2009/agents/37303
+description: This Brigade was organized at Camp Boone, Tennessee in 1861.
+gutenberg_issued: '2011-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34891'
+  lccn: 06024872
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'Kentucky. Militia'
+- !lcsh 'Confederate States of America. Army. Kentucky Brigade, 1st'
+title: Sketch of the First Kentucky Brigade
+url: http://www.gutenberg.org/ebooks/34891
